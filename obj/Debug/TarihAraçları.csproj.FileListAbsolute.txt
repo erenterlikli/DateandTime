@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\TarihAraçları\bin\Debug\TarihAraçları.exe.config
+C:\Users\Eren\source\repos\TarihAraçları\bin\Debug\TarihAraçları.exe
+C:\Users\Eren\source\repos\TarihAraçları\bin\Debug\TarihAraçları.pdb
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.Form1.resources
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.Properties.Resources.resources
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.exe
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.pdb
+C:\Users\Eren\source\repos\TarihAraçları\obj\Debug\TarihAraçları.csprojAssemblyReference.cache
